@@ -650,13 +650,7 @@ const CAMPUS_BUILDINGS = {
                 "color": "#2d5f3f",
                 "fillColor": "#7abf8f",
                 "fillOpacity": 0.6,
-                "images": [
-                    {
-                        "url": "assets/images/guesthouse/exterior.jpg",
-                        "title": "Guest House",
-                        "description": "Visitor accommodations"
-                    }
-                ]
+               
             },
             "geometry": {
                 "type": "Polygon",
